@@ -4,7 +4,7 @@ Gapminder has collected a lot of information about how people live their lives i
 
 ## Table of Contents
 ### Data cleaning
-### Exploring Data
+### Exploring and visualizing Data
 ### Conclusions
 
 ### Resources
